@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luis Tagliaferro :)'
+## Olá DEVs, bem vindos ao meu mundo novo ! 
 
  <div>
    <a href="https://github.com/luistagliaferro">
